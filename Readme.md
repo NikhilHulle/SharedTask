@@ -8,5 +8,5 @@ The Colab Notebook with the name "Final_notebook_Task4.ipynb" contains the code 
 3. Create an empty Folder in Colab Notebook with the name **ouput** that will store all the prediction files.
 4. Create an empty Folder in Colab Notebook with the name **models** that will store all the prediction files.
 5. Now run the cells present in the notebook **Final_notebook_Task4.ipynb**.
-6. In the BERT cell, you can change the name of the BERT models and its parameters accordingly.
+6. In the BERT cell, you can change the name of the BERT models, update the tokenizer appropriately and its parameters accordingly.
 7. In SVM cell too, you can change the parameters accordingly.
