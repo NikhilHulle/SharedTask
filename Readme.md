@@ -1,6 +1,6 @@
 # Topic chosen :- Task 4: ValueEval: Identification of Human Values behind Arguments
 
-DISCLAIMER: We have not uploaded a seperate notebook for every model that we have tried, instead there is kust one notebook uploaded here for ease of understanding. We locally updated the models and ran it.
+DISCLAIMER: We have not uploaded a seperate notebook for every model that we have have written about, instead there is just one notebook uploaded here for ease of understanding. We locally updated the models and ran it.
 
 We have uploaded a report as well for reference and deeper understanding of the work we have done.
 
