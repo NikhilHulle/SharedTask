@@ -1,5 +1,7 @@
 # Topic chosen :- Task 4: ValueEval: Identification of Human Values behind Arguments
 
+We have uploaded a report as well for reference and deeper understanding of the work we have done.
+
 The Colab Notebook with the name "Final_notebook_Task4.ipynb" contains the code for all the models. Name and comments have been provided for each model. To setup the notebook in Colab: 
 1. Create a Folder in Colab Notebook with the name **data_dir**.
 2. Load the dataset from [Webis-ArgValues-22](https://zenodo.org/record/6855004#.Y5j7yezMK3I) and upload the contents in data_dir.
