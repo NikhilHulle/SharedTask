@@ -18,7 +18,7 @@ Difficulties :-
 
 1) Took a lot of time to run the models.
 2) Used multiple systems to run the models.
-3) Ran out of disk space on google collab while running models like BERT-large.
+3) Ran out of the disk space on google collab while running models like BERT-large.
 
 Learnings :-
 
